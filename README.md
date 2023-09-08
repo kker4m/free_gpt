@@ -12,8 +12,7 @@ To install, you must install the dependencies to use the program:
 - Your device must have a chrome-based browser such as chromium or google chrome.
 - After knowing your chrome version by going to chrome://version url, you should download the chromedriver suitable for your version from [this](https://chromedriver.chromium.org/downloads "this") website and put it in the src folder.
 
-
-##Tips
+## Tips
 
 If you want to use my recommended user path method, do not forget to save your Profile Path somewhere via chrome://version.
 
